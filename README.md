@@ -1,3 +1,3 @@
 # DSS-Thesis-DMG-Beniers
 
-The code and the output of the code of the study "Analyzing the Power of TabNet and Transformer Models in Gold Price Prediction, using Financial, Marcoeconomic, and Sentiment Data" can be found in in ....
+The code and the output of the code of the study "Analyzing the Power of TabNet and Transformer Models in Gold Price Prediction, using Financial, Marcoeconomic, and Sentiment Data" can be found in Final Results Thesis.ipynb. 
